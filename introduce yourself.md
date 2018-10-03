@@ -1,6 +1,8 @@
 # 자기소개 마인드맵
 ## 컴퓨터과학부 2018920009 김민혜 (8조)
 
+![자기소개 마인드맵](https://github.com/ddl06024/Mr.Sunshine/blob/master/KakaoTalk_20181004_001811867.jpg?raw=true)
+
   * **성격**
     * 장점
       * 일단 하고 본다
